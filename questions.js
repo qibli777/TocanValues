@@ -135,7 +135,7 @@ questions = [
         }
     },
     {
-        "question": "The United Nations should be abolished.",
+        "question": "The World Assembly should be abolished.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -153,9 +153,9 @@ questions = [
         }
     },
     {
-        "question": "I support regional unions, such as the European Union.",
+        "question": "Tocan Isle should remain in SolarFlare.",
         "effect": {
-            "econ": -5,
+            "econ": 0,
             "dipl": 10,
             "govt": 10,
             "scty": 5
@@ -216,7 +216,7 @@ questions = [
         }
     },
     {
-        "question": "My nation is great.",
+        "question": "Tocan Isle is a great nation.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -342,38 +342,11 @@ questions = [
         }
     },
     {
-        "question": "A hierarchical state is best.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "It is important that the government follows the majority opinion, even if it is wrong.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 0
-        }
-    },
-    {
         "question": "The stronger the leadership, the better.",
         "effect": {
             "econ": 0,
             "dipl": -10,
             "govt": -10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Democracy is more than a decision-making process.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
             "scty": 0
         }
     },
@@ -558,25 +531,7 @@ questions = [
         }
     },
     {
-        "question": "Prostitution should be illegal.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": -10
-        }
-    },
-    {
         "question": "Maintaining family values is essential.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
-        }
-    },
-    {
-        "question": "To chase progress at all costs is dangerous.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -618,15 +573,6 @@ questions = [
             "dipl": 10,
             "govt": 10,
             "scty": 10
-        }
-    },
-    {
-        "question": "It is important that we further my group's goals above all others.",
-        "effect": {
-            "econ": -10,
-            "dipl": -10,
-            "govt": -10,
-            "scty": -10
         }
     }
 ];
