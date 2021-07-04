@@ -4,7 +4,7 @@ ideologies = [
         "stats": {
             "econ": 100,
             "dipl": 80,
-            "govt": 50,
+            "govt": 54,
             "scty": 75
         }
     },
@@ -13,7 +13,7 @@ ideologies = [
         "stats": {
             "econ": 85,
             "dipl": 45,
-            "govt": 50,
+            "govt": 51,
             "scty": 50
         }
     },
